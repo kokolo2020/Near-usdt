@@ -1,0 +1,2 @@
+# NEAR Paper Lab
+Mobile-first, read-only NEAR/USDT paper-trading replay. Fetches public KuCoin 5-minute candles through a Netlify Function. No API keys or real orders. Connect this GitHub repository to Netlify with the repository root as publish directory. Click Load real candles, then Replay all. Results are historical, not predictive; the baseline strategy does not include slippage or intra-candle execution.
